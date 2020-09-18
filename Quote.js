@@ -1,9 +1,9 @@
 var quoteArry = [
-    {
+    {    
         quote: '“Not how long, but how well you have lived is the main thing.”',
         name: 'Seneca'
     },
-    {
+    {  
         quote: '“If life were predictable it would cease to be life, and be without flavor.”',
         name: 'Eleanor Roosevelt'
     },
